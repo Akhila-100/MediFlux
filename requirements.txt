@@ -1,0 +1,7 @@
+flask
+pytesseract
+opencv-python
+numpy
+werkzeug
+fuzzywuzzy
+python-Levenshtein  # Optional, speeds up fuzzywuzzy
